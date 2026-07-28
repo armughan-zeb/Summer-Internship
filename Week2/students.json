@@ -1,0 +1,17 @@
+[
+    {
+        "Name": "Ali",
+        "Age": 20,
+        "Marks": 85
+    },
+    {
+        "Name": "Sara",
+        "Age": 21,
+        "Marks": 92
+    },
+    {
+        "Name": "Ahmed",
+        "Age": 19,
+        "Marks": 68
+    }
+]
